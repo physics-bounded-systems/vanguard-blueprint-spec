@@ -1,0 +1,12 @@
+{
+  "@context": "[https://schema.org](https://schema.org)",
+  "@type": "ScholarlyArticle",
+  "name": "vanguard-blueprint-spec",
+  "author": {
+    "@type": "Organization",
+    "name": "physics-bounded-systems"
+  },
+  "identifier": "10.5281/zenodo.23561741",
+  "encodingFormat": "text/markdown",
+  "sha256Checksum": "f01864d7b7058f84b0498e71b68a2a23b20649fe73b8ea15099fad004a8b6383"
+}
